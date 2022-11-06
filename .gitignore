@@ -1,0 +1,15 @@
+*.pyc
+*.egg-info
+db.sqlite3
+
+media/
+documents/  # Folder with invoices
+
+# ide
+.idea/
+
+# testing
+.pytest_cache/
+django_oscar_invoices.egg-info/
+dist/
+.tox/*
